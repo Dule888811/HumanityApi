@@ -1,0 +1,14 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  td {
+    padding-bottom: 3%;
+  }
+  table {
+    margin-top: 20%;
+  }
+  #days {
+    padding-top: 10%;
+    margin-left: 44%;
+  }
